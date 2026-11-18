@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 4.1.2)
+project(Lista_Pratica_Dupla_Italo_Josue)
+
+add_subdirectory(01_Lista_Estatica_Sequencial)
+add_subdirectory(02_Lista_Estatica_Encadeada)
+add_subdirectory(03_Lista_Encadeada_Dinamica)
